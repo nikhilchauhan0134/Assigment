@@ -1,0 +1,6 @@
+@Aperture.Platform_HostAddress = http://localhost:5019
+
+GET {{Aperture.Platform_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
